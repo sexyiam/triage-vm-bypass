@@ -1,2 +1,6 @@
 # triage-vm-bypass
-triage virtual machine bypass
+Triage, VirtualBox, Virustotal bypass, using poor methods
+
+# screenshots
+
+
