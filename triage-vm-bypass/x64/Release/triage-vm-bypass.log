@@ -1,0 +1,9 @@
+﻿  triage-vm-bypass.cpp
+D:\someshit\triage-vm-bypass\triage-vm-bypass\triage-vm-bypass.cpp(246,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\someshit\triage-vm-bypass\triage-vm-bypass\triage-vm-bypass.cpp(262,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  142 of 481 functions (29.5%) were compiled, the rest were copied from previous compilation.
+    130 functions were new in current compilation
+    61 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  triage-vm-bypass.vcxproj -> D:\someshit\triage-vm-bypass\x64\Release\triage-vm-bypass.exe
